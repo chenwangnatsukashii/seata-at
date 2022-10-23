@@ -1,0 +1,4 @@
+# Project exclude paths
+/discover-server/target/
+/dtx-seata-demo/dtx-seata-demo-bank1/target/
+/dtx-seata-demo/dtx-seata-demo-bank2/target/
