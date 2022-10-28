@@ -7,6 +7,9 @@
       <module fileurl="file://$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo.iml" filepath="$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank1/dtx-seata-demo-bank1.iml" filepath="$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank1/dtx-seata-demo-bank1.iml" />
       <module fileurl="file://$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank2/dtx-seata-demo-bank2.iml" filepath="$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank2/dtx-seata-demo-bank2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dtx-txmsg-demo/dtx-txmsg-demo.iml" filepath="$PROJECT_DIR$/dtx-txmsg-demo/dtx-txmsg-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dtx-txmsg-demo/dtx-txmsg-demo-bank1/dtx-txmsg-demo-bank1.iml" filepath="$PROJECT_DIR$/dtx-txmsg-demo/dtx-txmsg-demo-bank1/dtx-txmsg-demo-bank1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dtx-txmsg-demo/dtx-txmsg-demo-bank2/dtx-txmsg-demo-bank2.iml" filepath="$PROJECT_DIR$/dtx-txmsg-demo/dtx-txmsg-demo-bank2/dtx-txmsg-demo-bank2.iml" />
     </modules>
   </component>
 </project>
